@@ -18,7 +18,6 @@ public class Quizz : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.A))
         {
-            texto.text = "Lonely Boy";
             texto.text = "Soy un chico solitario que se queda solo";
         }
         if (Input.GetKeyDown(KeyCode.B))
