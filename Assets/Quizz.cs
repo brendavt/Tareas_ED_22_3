@@ -10,7 +10,7 @@ public class Quizz : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-         texto.text = "¿Cuál es tu canción favorita de MINISODE 2:Thursday's Child de TOMORROW BY TOGETHER?";
+         texto.text = "A. Lonely Boy    B. Opening Sequence    C. Good Boy Gone Bad    D. Trust Fun Baby";
     }
 
     // Update is called once per frame
